@@ -50,6 +50,7 @@ Use [MountEFI](https://github.com/corpnewt/MountEFI), to mount the EFI drive of 
 
 ## USB Mapping
 * [EASY USB port mapping - Youutbe](https://www.youtube.com/watch?v=uww6Cizil_g)
+* [USB port mapping for Gigabyte-Z390-I-Aorus-Pro-Wifi](https://github.com/markosmk/Pynty-Hackintosh-Gigabyte-Z390-I-Aorus-Pro-Wifi/blob/master/Mapeo_Puertos_USB.md)
 
 
 ## Possible Trouble Shooting
