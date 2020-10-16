@@ -48,6 +48,10 @@ Use [MountEFI](https://github.com/corpnewt/MountEFI), to mount the EFI drive of 
 |F9, F10, F11 & F12c/j| setup_var 0x5C1 0x00|
 
 
+## USB Mapping
+* [EASY USB port mapping - Youutbe](https://www.youtube.com/watch?v=uww6Cizil_g)
+
+
 ## Possible Trouble Shooting
 * use the SSDT from the Github Guide , since that probabily would get SSDT complied from that mother board
 * use the target windows and SSDT time to produce the SSDT files
