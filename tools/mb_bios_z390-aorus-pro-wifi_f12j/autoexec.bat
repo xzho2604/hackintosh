@@ -1,0 +1,1 @@
+Efiflash Z390APRW.12j
