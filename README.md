@@ -27,6 +27,9 @@ Use [MountEFI](https://github.com/corpnewt/MountEFI), to mount the EFI drive of 
 
 ## ACPI
 * use the [SSDTTime](https://github.com/corpnewt/SSDTTime) to dump 
+* or use the prebuild SSDTTime file
+* Manually build 
+
 
 
 ## config.plist
@@ -43,6 +46,14 @@ Use [MountEFI](https://github.com/corpnewt/MountEFI), to mount the EFI drive of 
 | Firmware Version	    | Command          | 
 | ------------- |:-------------|
 |F9, F10, F11 & F12c/j| setup_var 0x5C1 0x00|
+
+
+## Possible Trouble Shooting
+* use the SSDT from the Github Guide , since that probabily would get SSDT complied from that mother board
+* use the target windows and SSDT time to produce the SSDT files
+* Need to know the firmware version for the CFG unlock
+* Ktext double check
+* BIOS settings
 
 
 
