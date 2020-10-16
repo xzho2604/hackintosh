@@ -1,5 +1,12 @@
 # hackintosh
 
+## Reference Guide
+[GitHUb](https://github.com/blacklizard/gigabyte-z390-aorus-pro-wifi-hackintosh-opencore)
+[YouTube](https://www.youtube.com/watch?v=r7mxY9OJVds)
+
+
+
+
 ## Hardware
 
 
@@ -13,10 +20,13 @@
 
 
 
-
 ## MountEFI
 Use [MountEFI](https://github.com/corpnewt/MountEFI), to mount the EFI drive of the bootable usb
 
+## Find the Kexts
+
+## ACPI
+* use the [SSDTTime](https://github.com/corpnewt/SSDTTime) to dump 
 
 
 
