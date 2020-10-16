@@ -1,8 +1,10 @@
 # hackintosh
 
 ## Reference Guide
-[GitHUb](https://github.com/blacklizard/gigabyte-z390-aorus-pro-wifi-hackintosh-opencore)
-[YouTube](https://www.youtube.com/watch?v=r7mxY9OJVds)
+* [GitHUb](https://github.com/blacklizard/gigabyte-z390-aorus-pro-wifi-hackintosh-opencore)
+* [YouTube](https://www.youtube.com/watch?v=r7mxY9OJVds)
+* [ProperTree](https://github.com/corpnewt/ProperTree)
+
 
 
 
@@ -21,12 +23,17 @@
 
 
 ## MountEFI
+* EIF is by default hidden need to show 
 Use [MountEFI](https://github.com/corpnewt/MountEFI), to mount the EFI drive of the bootable usb
 
 ## Find the Kexts
 
 ## ACPI
 * use the [SSDTTime](https://github.com/corpnewt/SSDTTime) to dump 
+
+
+## config.plist
+* Use [ProperTree](https://github.com/corpnewt/ProperTree)) to configure the config.plist according to this [guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#misc)
 
 
 
