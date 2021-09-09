@@ -4,6 +4,7 @@
 * [GitHUb](https://github.com/blacklizard/gigabyte-z390-aorus-pro-wifi-hackintosh-opencore)
 * [YouTube](https://www.youtube.com/watch?v=r7mxY9OJVds)
 * [ProperTree](https://github.com/corpnewt/ProperTree)
+* [Update Directly to BigSur](https://www.tonymacx86.com/threads/update-directly-to-macos-big-sur.304629/)
 
 
 ## Hardware
